@@ -155,7 +155,6 @@
                         android:inputType="textPostalAddress"
                         android:id="@+id/otherReasons"
                         android:hint="Others"
-                        android:allowUndo="false"
                         android:layout_marginBottom="20dp"
                         android:layout_marginLeft="50dp"
                         android:layout_marginRight="40dp"/>
